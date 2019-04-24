@@ -1,2 +1,2 @@
-# RedTeam
-RedTeam Kill Chain
+# Initial page
+
