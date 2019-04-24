@@ -1,10 +1,6 @@
 # Table of contents
 
-* [情报搜集](README.md)
-* [Untitled](untitled-1.md)
-* [Untitled](untitled.md)
-
-## a a
-
-* [Untitled](a-a/untitled.md)
+* [ATT&CK](README.md)
+* [资产发现](untitled-1/README.md)
+  * [Untitled](untitled-1/untitled.md)
 
