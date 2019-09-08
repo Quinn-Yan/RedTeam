@@ -2,6 +2,8 @@
 
 * [RedTeamWing-Notes](README.md)
 * [快速突破](kuai-su-tu-po/README.md)
+  * [SQL注入备忘录](kuai-su-tu-po/sql-zhu-ru-bei-wang-lu.md)
+  * [Web-Fast-Fuzz](kuai-su-tu-po/web-fast-fuzz.md)
   * [PHP系列](kuai-su-tu-po/php-xi-lie.md)
   * [JAVA系列](kuai-su-tu-po/java-xi-lie-ndayexploit.md)
 * [Active Directory Security](active-directory-security/README.md)
