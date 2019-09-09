@@ -9,4 +9,6 @@
 * [Active Directory Security](active-directory-security/README.md)
   * [Active Directory Defense](active-directory-security/active-directory-defense/README.md)
     * [AD Security最佳实践](active-directory-security/active-directory-defense/ad-security-zui-jia-shi-jian.md)
+* [横向渗透](heng-xiang-shen-tou/README.md)
+  * [COM Hijacking Techniques](heng-xiang-shen-tou/com-hijacking-techniques.md)
 
