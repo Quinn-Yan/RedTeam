@@ -1,6 +1,7 @@
 # Table of contents
 
 * [RedTeamWing-Notes](README.md)
+* [Hacking Windows 备忘录](hacking-windows-bei-wang-lu.md)
 * [快速突破](kuai-su-tu-po/README.md)
   * [SQL注入备忘录](kuai-su-tu-po/sql-zhu-ru-bei-wang-lu.md)
   * [Web-Fast-Fuzz](kuai-su-tu-po/web-fast-fuzz.md)
